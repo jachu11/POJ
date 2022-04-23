@@ -1,0 +1,23 @@
+package com.company;
+
+public class Usmiech implements Rysowalny {
+
+
+    public void draw(int i) {
+    }
+
+
+   public boolean czySieUsmiecha() {
+        return false;
+    }
+
+
+    public void przestanSieUsmiechac() {
+    }
+
+
+    @Override
+    public void draw() {
+
+    }
+}
